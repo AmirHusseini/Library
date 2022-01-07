@@ -1,0 +1,39 @@
+﻿@page
+@model Book_Shop.Pages.WelcomeModel
+@{
+}
+<h1>Welcome @Model.Username</h1>
+    <a asp-page="Welcome" asp-page-handler="Logout">Logout</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Loan[0].Book.Imageurl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Loan[0].Book)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Loan[0].LoanDate)
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Loan) {
+        <tr>
+            <td>
+                <img src="@item.Book.Imageurl" class="img-responsive" alt="Cinque Terre" width="100" height="130">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book.BookName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LoanDate)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>

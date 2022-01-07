@@ -1,0 +1,48 @@
+﻿@page
+@model Book_Shop.Pages.login.loginModel
+
+@{
+    ViewData["Title"] = "login";
+}
+
+<h1>login</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Loan[0].LoanDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Loan[0].Customer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Loan[0].Book)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Loan) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LoanDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book.AuthorName)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.LoanId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.LoanId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.LoanId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

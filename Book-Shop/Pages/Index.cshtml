@@ -1,0 +1,31 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="card-columns">
+    @foreach (var item in Model.books)
+    {
+        <div class="col">
+            <a asp-page="ProductView" asp-route-ID="@item.BookId">
+                <div class="card shadow-sm">
+                    <img class="card-img-top" src="@item.Imageurl" alt="Cinque Terre" width="20" height="290">
+
+                    <div class="card-body">
+                        <p class="card-text">@item.AuthorName</p>
+                        @*<p class="card-text">@item.PublishedDate</p>*@
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="btn-group">
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+    }
+
+</div>

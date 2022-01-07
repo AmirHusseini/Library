@@ -1,0 +1,14 @@
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\bin\Debug\net6.0\DataLibrary.deps.json
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\bin\Debug\net6.0\DataLibrary.runtimeconfig.json
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\bin\Debug\net6.0\DataLibrary.dll
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\bin\Debug\net6.0\ref\DataLibrary.dll
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\bin\Debug\net6.0\DataLibrary.pdb
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\obj\Debug\net6.0\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\obj\Debug\net6.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\obj\Debug\net6.0\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\obj\Debug\net6.0\DataLibrary.AssemblyInfo.cs
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\obj\Debug\net6.0\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\obj\Debug\net6.0\DataLibrary.dll
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\obj\Debug\net6.0\ref\DataLibrary.dll
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\obj\Debug\net6.0\DataLibrary.pdb
+C:\Users\husse\source\repos\Book-Shop\DataLibrary\obj\Debug\net6.0\DataLibrary.genruntimeconfig.cache

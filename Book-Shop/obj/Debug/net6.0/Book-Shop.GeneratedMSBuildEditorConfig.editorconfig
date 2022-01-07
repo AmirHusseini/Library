@@ -1,0 +1,132 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Book_Shop
+build_property.RootNamespace = Book_Shop
+build_property.ProjectDir = C:\Users\husse\source\repos\Book-Shop\Book-Shop\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\husse\source\repos\Book-Shop\Book-Shop
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYm9va1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/book/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYm9va1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/book/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYm9va1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYm9va1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/loan/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9hblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/loan/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9hblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/loan/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9hblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/loan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9hblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/loan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9hblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/login/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW5cbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/login/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW5cV2VsY29tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/husse/source/repos/Book-Shop/Book-Shop/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
